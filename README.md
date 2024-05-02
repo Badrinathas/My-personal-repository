@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Bangalore,India
-* ✉️  You can contact me at [asbadrinath467@gail.com](mailto:asbadrinath467@gail.com)
+* ✉️  You can contact me at [asbadrinath467@gmail.com](mailto:asbadrinath467@gmail.com)
 * 🧠  I'm learning machine learning and AI
 * 🤝  I'm open to collaborating on web dev project and Machine learning projects
 
